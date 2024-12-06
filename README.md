@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello visitor 🌊, my name is Kris Parekh and welcome to my fledgling GitHub
 
+### About me
+I'm from Sydney Australia, the beaches are nice but I think snow is nicer ❄️. Though C++ is cool, and Java is suave, Python is where journey began 🐍. I like writing clean, robust code ✨, but outside of that my time is spent satiating curiosity and enjoying the little moments ☺️.
 <!--
 **Finger-Food/finger-food** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
